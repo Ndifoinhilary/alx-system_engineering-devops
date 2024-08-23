@@ -1,3 +1,6 @@
+
+![postmorterm_technical](https://github.com/user-attachments/assets/f628ee68-ea0f-44f8-971d-86d520cb6e97)
+
 Issue Summary
 Duration of the Outage: The outage started at 11:45 AM and was resolved by 12:45 PM West African Time.
 
@@ -42,4 +45,7 @@ Here is the script i mentioned to ensure the configuration is always active:
 Ensure Nginx is properly configured and listening on port 80
 cat /etc/nginx/sites-available/default > /etc/nginx/sites-enabled/default sudo service nginx restart
 
-This script ensures that the correct configuration is enabled and restarts Nginx to apply the changes.
+This script ensures that the correct configuration is enabled and restarts Ngi![postmoterm_flow_chart](https://github.com/user-attachments/assets/2362ad30-dcb7-4984-93e9-cb800d9c19fc)
+nx to apply the changes.
+
+
